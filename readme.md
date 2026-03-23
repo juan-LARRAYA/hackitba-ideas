@@ -1,6 +1,9 @@
 # Propuestas de desarrollo
 
 # 📈 Marketing & Growth
+
+![Marketing](images/marketing.png)
+
 ## Plataforma de marketin integral:
 agarra datos de web , redes sociales
 identifica clientes
@@ -23,6 +26,11 @@ Generacion de sugerencias en la app (integradcion de modelos de IA)
 
 
 # 🤖 Automatización & IA
+
+![FileWatcher](images/file-automatizacion.png)
+
+![Métricas](images/metics-automatizacion.png)
+
 ## FileWatcher — Sistema de gestion knowledge de empresas
 Sistema para ordenar y evaluar las contribuciones de cada persona a una base de documentos.
 
@@ -41,6 +49,8 @@ Sistema para ordenar y evaluar las contribuciones de cada persona a una base de 
 
 
 # 💳 Fintech & Finanzas Inteligentes
+
+![Fintech](images/fintech.png)
 
 APP para recopilar precios de cosa y comprar el mas barato.
 
