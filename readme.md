@@ -1,15 +1,54 @@
-https://hackitba.com.ar/en
+# Propuestas de desarrollo
 
-voy a participar en esta hackaton el finde semana que viene.
-Las categorias donde tenemos que construir un producto digital son:
+# 📈 Marketing & Growth
+## Plataforma de marketin integral:
+agarra datos de web , redes sociales
+identifica clientes
+ofrece sugerencias de anuncios personalizados.
 
-🤖 Automatización & IA
-Soluciones disruptivas que utilicen inteligencia artificial para optimizar procesos, aumentar la productividad y crear sistemas autónomos con impacto tangible en costos y eficiencia
+## 4 partes:
+Plataforma de Marketing (ui/ux).
+Extraccion de datos.
+procesameinto de los datos.
+Generacion de sugerencias en la app (integradcion de modelos de IA)
 
-📈 Marketing & Growth
-Herramientas tecnológicas diseñadas para acelerar el crecimiento de negocios, optimizar adquisición y retención, y generar ROI claro a partir del uso estratégico de datos.
+- Cliente potencial : empresas mediana y grandes que utilicen medios digitales.
 
-💳 Fintech & Finanzas Inteligentes
-Soluciones financieras que reduzcan fricciones, faciliten la creación de riqueza y simplifiquen la gestión del capital, con modelos de ingresos claros.
+### pros:
+- le interesa a Alejandro Vazquez, mariana sozzi, Patricia Jebsen y Federico Rolando.
 
-quiero que me des ejemplos de productos en cada area y hablemos de cuales me gustan mas el output tiene que ser 3 productos validados por mi para cada una de las categorias en un archivo llamado ideas.md
+### cons:
+- Es dificil hacer una integracion con todo y traerte todos los datos. 
+- Tendriasmos que conseguir una cuenta para experimentar.
+
+
+# 🤖 Automatización & IA
+## FileWatcher — Sistema de gestion knowledge de empresas
+Sistema para ordenar y evaluar las contribuciones de cada persona a una base de documentos.
+
+## Pain points que resuelve:
+- En empresas con servidores de archivos compartidos no hay visibilidad de actividad.
+- Imposible saber quién editó un archivo sin auditoría manual.
+- No existe forma simple de ver patrones de trabajo por equipo. Util para impllementar AI a nivel de empresa.
+- Útil para RRHH, gerencia y auditorías internas.
+
+### Features posibles:
+- Timeline de modificaciones por archivo.
+- Heatmap de actividad por hora/día/usuario.
+- Exportación de reportes para auditoría.
+- Detección de eliminación masiva de archivos (alerta de posible incidente).
+
+
+
+# 💳 Fintech & Finanzas Inteligentes
+
+APP para recopilar precios de cosa y comprar el mas barato.
+
+### consultar
+
+colateral para compra de acciones con activos
+
+o directamente apalancamiento del 100% como hacen empresas de afuera.
+
+
+*Última actualización: sesión de brainstorm HackITBA 2026*
